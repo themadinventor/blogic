@@ -1,0 +1,152 @@
+PCBNEW-LibModule-V1  Thu 04 Apr 2013 12:43:20 AM CEST
+# encoding utf-8
+Units mm
+$INDEX
+SMD9B
+SMDPAD9
+$EndINDEX
+$MODULE SMD9B
+Po 0 0 0 15 515CB085 00000000 ~~
+Li SMD9B
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -15.24 1 1 0 0.15 N V 21 N "SMD9B"
+T1 0 -12.7 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 -10.16
+$EndPAD
+$PAD
+Sh "2" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 -7.62
+$EndPAD
+$PAD
+Sh "3" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "4" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "5" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "6" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 2.54
+$EndPAD
+$PAD
+Sh "7" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$PAD
+Sh "8" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 7.62
+$EndPAD
+$PAD
+Sh "9" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 0 10.16
+$EndPAD
+$EndMODULE SMD9B
+$MODULE SMDPAD9
+Po 0 0 0 15 515CAAF0 00000000 ~~
+Li SMDPAD9
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -15.24 1 1 0 0.15 N V 21 N "SMDPAD9"
+T1 0 -12.7 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -10.16
+$EndPAD
+$PAD
+Sh "2" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -7.62
+$EndPAD
+$PAD
+Sh "3" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "4" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "5" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "6" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 2.54
+$EndPAD
+$PAD
+Sh "7" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$PAD
+Sh "8" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 7.62
+$EndPAD
+$PAD
+Sh "9" R 3.8 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 10.16
+$EndPAD
+$EndMODULE SMDPAD9
+$EndLIBRARY
