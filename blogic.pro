@@ -1,4 +1,4 @@
-update=Thu 04 Apr 2013 01:57:27 AM CEST
+update=Thu 04 Apr 2013 02:28:57 AM CEST
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -87,3 +87,4 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=edge
 LibName18=blogic
+LibName19=k-logo
